@@ -1,8 +1,7 @@
-<?php 
 
+<?php  
 $x = 5985;
-$y = pi();
+$y=pi();
 var_dump($x);
 var_dump($y);
-
-?>
+?>  
